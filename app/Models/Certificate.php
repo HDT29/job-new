@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Certificate extends Model
+{
+    protected $table='certificates';
+    protected $fillable=[
+        'certificate_name','certificate_time','cv_id',
+    ];
+}

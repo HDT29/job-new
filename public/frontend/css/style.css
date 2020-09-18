@@ -1,0 +1,107 @@
+#jobs{
+    background: #ffffff !important;
+}
+.right-content i:hover{
+    color:#F2AB05;
+}
+#btn-addjob{
+   margin: 0px 0px 20px 0px;
+}
+.hide {
+    display: none;
+}
+.image-job{
+    border-radius: 1000px;
+}
+#custorm_form{
+   width: 550px;
+    height: 40px;
+    background: #FAF7FA;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    border: 1px solid #D3D3D3;
+    padding: 0px 10px;
+}
+#image_company{
+    border-radius:100%;
+
+}
+#btndetailcompany{
+    border: 2px solid cornflowerblue;
+    background:cornflowerblue;padding:
+    5% 28%;color: cornsilk;border-radius: 20px;
+}
+#btndetailcompany:hover{
+    border: 2px solid cornflowerblue;
+    color:cornflowerblue;
+    background: #ffffff;
+}
+#maxname{
+    display: block;
+     width: 200px;
+     overflow: hidden;
+     white-space: nowrap;
+     text-overflow: ellipsis;
+}
+#maxnamedesc{
+    display: block;
+     width: 150px;
+     overflow: hidden;
+     white-space: nowrap;
+     text-overflow: ellipsis;
+}
+.section-title>h2 {
+    font-size: 17px;
+    margin: auto;
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+    background-color: #212f3f;
+    border-radius: 3px 3px 0 0;
+    color: #fff;
+
+}
+
+.fa-certificate,.fa-dot-circle-o {
+    color: #f8d309;
+    font-size: 25px!important;
+    margin-right: 10px;
+}
+.feature-job-link a {
+    font-size: 14px;
+    line-height: 28px;
+    color: #fff;
+    text-decoration: none;
+}
+.user-account{
+    border-radius:10px;
+    border: 1px solid cornflowerblue;
+}
+#searchcompany{
+    width: 550px;
+}
+#buttonall{
+    border: 2px solid cornflowerblue;
+    background:cornflowerblue;
+    padding: 10px 45px;
+    color: cornsilk;
+    border-radius: 1000px;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+#buttonall:hover{
+    border: 2px solid cornflowerblue;
+    color:cornflowerblue;
+    background: #ffffff;
+}
+#backpricing{
+    background:#ffffff;
+
+}
+#btnpricing{
+    width: 200px;
+}
+#checklanguage{
+    overflow-x:hidden;
+    overflow-y:auto;
+    height: 300px;
+}
